@@ -6,31 +6,53 @@ Awesome Free Functional Programming Resources
 ##Index (TODO)
 
 [Functional programming study plan](https://ericdouglas.github.io/2016/12/04/functional-programming-study-plan/)
+
 [awesome functional programming](https://github.com/xgrommx/awesome-functional-programming)
+
 [functional-programming-javascript](https://github.com/busypeoples/functional-programming-javascript)
 
 [Hidden complexities of tail-call/tail-recursion optimization](http://lambda-the-ultimate.org/classic/message1532.html#1533)
+
 [Don't fear the monad - Brian Beckman](https://www.youtube.com/watch?v=ZhuHCtR3xq8)
+
 [Brian Beckman: The Zen of Stateless State - The State Monad](https://www.youtube.com/watch?v=XxzzJiXHOJs)
+
 [Erik Meijer: Functional Programming](https://www.youtube.com/watch?v=z0N1aZ6SnBk)
+
 [Philip Wadler and Erik Meijer: On Programming Language Theory and Practice](https://youtu.be/9SBR_SnrEiI)
+
 [How to Design Programs](http://www.htdp.org/)
+
 [SICP](https://mitpress.mit.edu/sites/default/files/6515.pdf)
-[Introduction to Functional Programming (Prentice Hall International Series in Computing Science) ](https://www.amazon.com/Introduction-Functional-Programming-International-Computing/dp/0134841891)
+
+[Introduction to Functional Programming (Prentice Hall International Series in Computing Science) ]
+(https://www.amazon.com/Introduction-Functional-Programming-International-Computing/dp/0134841891)
+
 [A Proof Assistant for Higher-Order Logic](http://isabelle.in.tum.de/doc/tutorial.pdf)
+
 [The Algebra of Algebraic Data Types](http://chris-taylor.github.io/blog/2013/02/10/the-algebra-of-algebraic-data-types/)
+
 [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
+
 [The Implementation of Functional Programming Languages](https://www.microsoft.com/en-us/research/publication/the-implementation-of-functional-programming-languages/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fsimonpj%2Fpapers%2Fslpj-book-1987%2Fstart.htm)
+
 [Why Functional Programming Matters](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
 [C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals](https://www.youtube.com/playlist?list=PLTA0Ta9Qyspa5Nayx0VCHj5AHQJqp1clD)
 
+
 ## Lambda Calculus - Combinators
 [AlligatorEggs - Game](http://worrydream.com/AlligatorEggs/)
+
 [AlligatorEggs Combinator](http://metatoys.org/alligator/)
+
 [A Graphical Notation for the Lambda Calculus with Animated Reduction](http://dkeenan.com/Lambda/)
+
 [Combinator Birds](http://www.angelfire.com/tx4/cus/combinator/birds.html)
+
 [Fixed Point Combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator)
+
 [Lambda-Calculus and Combinators: An Introduction](https://www.amazon.com/Lambda-Calculus-Combinators-Introduction-Roger-Hindley/dp/0521898854)
+
 [Cube Composer - Game](https://david-peter.de/cube-composer/)
 
 ### Books
@@ -39,60 +61,90 @@ Awesome Free Functional Programming Resources
 ## Functional Paradigm
 
 [Functional Programming should be your #1 priority for 2015](https://medium.com/@jugoncalves/functional-programming-should-be-your-1-priority-for-2015-47dd4641d6b9)
+
 ### Courses
 [fp-course](https://github.com/data61/fp-course)
 
 ### Videos
 [Video-series - Category theory for programmers by Bartosz Milewski](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
 
-### 
-
 ### Books
 [Category Theory for Programmers by Bartosz Milewski](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+
 [Type Theory & Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/ttfp.pdf)
 
 ## Javascript
 
 [Common combinators in JavaScript](https://gist.github.com/Avaq/1f0636ec5c8d6aed2e45)
+
 [Combinators-js](https://github.com/benji6/combinators-js)
+
 [A Gentle Introduction to Functional JavaScript](https://github.com/ChetHarrison/A-Gentle-Introduction-to-Functional-JavaScript)
+
 [Functional programming patterns for the non-mathematician](https://www.youtube.com/watch?v=AvgwKjTPMmM)
+
 
 ### Libs
 [Fantasy Land](https://github.com/fantasyland/fantasy-land)
+
 [Crocks](https://github.com/evilsoft/crocks)
+
 [Union Types](https://github.com/paldepind/union-type)
+
 [Ramda](ramdajs.com)
+
 [Fantasy Combinators](https://github.com/fantasyland/fantasy-combinators)
+
 [Fantasy Birds](https://github.com/fantasyland/fantasy-birds)
+
 [Church Encoding in JS](https://github.com/benji6/church)
+
 [Folktale](https://github.com/origamitower/folktale)
+
 
 ### Talks
 [David Nolen: Immutability: Putting The Dream Machine To Work ](https://www.youtube.com/watch?v=SiFwRtCnxv4)
+
 [Anjana Vakil: Learning Functional Programming with JavaScript - JSUnconf 2016](https://www.youtube.com/watch?v=e-5obm1G_FY)
+
 [Anjana Vakil: Immutable data structures for functional JS | JSConf EU 2017](https://www.youtube.com/watch?v=Wo0qiGPSV-s)
+
 [Pure JavaScript - Christian Johansen](https://vimeo.com/49384334)
+
 [James Coglan: Practical functional programming: pick two | JSConf EU 2014](https://youtu.be/XcS-LdEBUkE)
+
 
 ### Articles
 [Functional Programming In JavaScript — With Practical Examples](https://medium.freecodecamp.org/functional-programming-in-js-with-practical-examples-part-1-87c2b0dbc276)
+
 [Thinking in Ramda Series](http://randycoulman.com/blog/2016/07/19/thinking-in-ramda-wrap-up/)
+
 [Erick Elliot - Composing Software Series](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
+
 [An Intro to Functional Programming Concepts in JavaScript](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-b0650773139c)
+
 [Why Curry Helps](https://hughfdjackson.com/javascript/why-curry-helps/)
+
 [JavaScript and Type Thinking](https://medium.com/@yelouafi/javascript-and-type-thinking-735edddc388d)
+
 [Lazy, composable, and modular JavaScript](https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript)
 [Monads in JavaScript](https://curiosity-driven.org/monads-in-javascript)
+
 [A Monad in Practicality: First-Class Failures](http://robotlolita.me/2013/12/08/a-monad-in-practicality-first-class-failures.html)
+
 [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
 
 ### Books
 [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
+
 [Functional Light Programming](https://github.com/getify/functional-light-js)
+
 [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
+
 [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)
+
 [Manning Functional Programming in JavaScript](https://www.manning.com/books/functional-programming-in-javascript)
+
 [Functional Javascript O'relly](http://shop.oreilly.com/product/0636920028857.do)
 
 ### Courses
@@ -104,16 +156,22 @@ Awesome Free Functional Programming Resources
 ## Haskell
 
 [Functional Programming in Haskell](https://github.com/caiorss/Functional-Programming/blob/master/haskell/README.org)
+
 [Category Theory](https://en.wikibooks.org/wiki/Haskell/Category_theory)
+
 [Adventure with Types in Haskell - Simon Peyton Jones (Lecture 1)](https://youtu.be/6COvD8oynmI?list=RD6COvD8oynmI)
 
 ### Courses
+
 [Haskell Course - NPTEL](http://nptel.ac.in/courses/106106137/)
+
 [FUNCTIONAL PROGRAMMING - University of Edinburgh](https://www.inf.ed.ac.uk/teaching/courses/inf1/fp/)
 
 ### Books
 [Learn You A Haskell For Great Good](http://learnyouahaskell.com/)
+
 [Real World Haskell](http://book.realworldhaskell.org/)
+
 [HaskellBook](http://haskellbook.com/)
 
 ## Scala
