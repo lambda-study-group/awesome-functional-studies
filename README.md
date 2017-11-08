@@ -3,7 +3,7 @@
 # Awesome Funcional Programming Studies
 Awesome Free Functional Programming Resources
 
-##Index (TODO)
+## Index (TODO)
 
 [Functional programming study plan](https://ericdouglas.github.io/2016/12/04/functional-programming-study-plan/)
 
@@ -25,8 +25,7 @@ Awesome Free Functional Programming Resources
 
 [SICP](https://mitpress.mit.edu/sites/default/files/6515.pdf)
 
-[Introduction to Functional Programming (Prentice Hall International Series in Computing Science) ]
-(https://www.amazon.com/Introduction-Functional-Programming-International-Computing/dp/0134841891)
+[Introduction to Functional Programming (Prentice Hall International Series in Computing Science)](https://www.amazon.com/Introduction-Functional-Programming-International-Computing/dp/0134841891)
 
 [A Proof Assistant for Higher-Order Logic](http://isabelle.in.tum.de/doc/tutorial.pdf)
 
@@ -208,5 +207,3 @@ Aquele curso do cousera
 ## Lisp
 
 ## Elm
-
-
