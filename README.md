@@ -54,9 +54,11 @@ Awesome Free Functional Programming Resources
 
 ## Lambda Calculus-Combinators
 
+- [A Taste of the λ Calculus](http://www.flyingmachinestudios.com/programming/a-taste-of-the-lambda-calculus/)
 - [A Graphical Notation for the Lambda Calculus with Animated Reduction](http://dkeenan.com/Lambda/)
 - [Combinator Birds](http://www.angelfire.com/tx4/cus/combinator/birds.html)
 - [The SKI Combinator Calculus - a universal formal system](http://people.cs.uchicago.edu/~odonnell/Teacher/Lectures/Formal_Organization_of_Knowledge/Examples/combinator_calculus/)
+
 #### Livros
 - [Lambda-Calculus and Combinators: An Introduction](https://www.amazon.com/Lambda-Calculus-Combinators-Introduction-Roger-Hindley/dp/0521898854)
 
@@ -194,7 +196,7 @@ Aquele curso do cousera
 - [Try-elm](http://try-elm/examples)
 - [Elm-lang - Examples](http://elm-lang.org/examples)
 - [Elm-lang - Time travel Debug](http://debug.elm-lang.org/edit/Mario.elm)
-- [Learn You a ]()
+- [Learn You a Elm](http://learnyouanelm.github.io/)
 
 #### Stuff
 - [React Elm Components](https://github.com/evancz/react-elm-components)
@@ -251,6 +253,7 @@ Aquele curso do cousera
 - [4Clojure](http://www.4clojure.com/)
 
 #### Sites
+- [Lambda Calculus: The Y combinator in clojure](http://blog.klipse.tech/lambda/2016/08/07/pure-y-combinator-clojure.html)
 - [Clojure ToolBox](https://www.clojure-toolbox.com/) 
     - Guia de libraries e tools em Clojure
 - [Clojure Styleguide](https://github.com/bbatsov/clojure-style-guide) 
