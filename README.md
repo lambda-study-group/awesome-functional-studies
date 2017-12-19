@@ -5,7 +5,7 @@ Awesome Free Functional Programming Resources
 
 [Contributing.md](/contributing.md)
 
-## Index
+## Sumário
 
 - [Functional Paradigm](functional-paradigm)
 - [Lambda Calculus - Combinators](lambda-calculus-combinators)
@@ -56,17 +56,15 @@ Awesome Free Functional Programming Resources
 
 #### Cursos de iniciação ao paradigma
 
-[Programming Languages](https://pt.coursera.org/learn/programming-languages) *****
-Curso em SML, Ruby e Scheme com uma abordagem a programação funcional muito interessante.
-
-[fp-course](https://github.com/data61/fp-course)
-
-[SICP](https://mitpress.mit.edu/sites/default/files/6515.pdf)
-Livro com teoria e exercicios em Scheme que era usado para ensinar introdução a computação do MIT.
+- [Programming Languages](https://pt.coursera.org/learn/programming-languages) *****
+    - Curso em SML, Ruby e Scheme com uma abordagem a programação funcional muito interessante.
+- [fp-course](https://github.com/data61/fp-course)
+- [SICP](https://mitpress.mit.edu/sites/default/files/6515.pdf)
+    - Livro com teoria e exercicios em Scheme que era usado para ensinar introdução a computação do MIT.
 
 #### Artigos
 
-[Functional Programming should be your #1 priority for 2015](https://medium.com/@jugoncalves/functional-programming-should-be-your-1-priority-for-2015-47dd4641d6b9)
+- [Functional Programming should be your #1 priority for 2015](https://medium.com/@jugoncalves/functional-programming-should-be-your-1-priority-for-2015-47dd4641d6b9)
 
 #### Paper
 
@@ -88,25 +86,25 @@ Livro com teoria e exercicios em Scheme que era usado para ensinar introdução 
 
 [Cube Composer - Game](https://david-peter.de/cube-composer/)
 
-#### Books
-[To Mock a Mockingbird and Other Logic Puzzles](https://www.amazon.com/exec/obidos/tg/detail/-/0394534913/104-1615637-3868724)
+#### Livros
+- [To Mock a Mockingbird and Other Logic Puzzles](https://www.amazon.com/exec/obidos/tg/detail/-/0394534913/104-1615637-3868724)
 
 ## Teoria
 
-#### Books
-[Category Theory for Programmers by Bartosz Milewski](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) *****
-Livro online da introdução a teoria das cateogorias para programadores.
+#### Livros
+- [Category Theory for Programmers by Bartosz Milewski](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) *****
+    - Livro online da introdução a teoria das cateogorias para programadores do Bartosz Milewski.
 
-[Type Theory & Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/ttfp.pdf)
+- [Type Theory & Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/ttfp.pdf)
 
-#### Courses
-[Video-series - Category theory for programmers by Bartosz Milewski](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_) *****
-Video series das aulas do Bartosz Milewski de teoria das cateorias.
+#### Cursos
+- [Video-series - Category theory for programmers by Bartosz Milewski](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_) *****
+    - Video series das aulas do Bartosz Milewski de teoria das cateorias.
 
 #### Videos
 
-[Don't fear the monad - Brian Beckman](https://www.youtube.com/watch?v=ZhuHCtR3xq8)
-[Brian Beckman: The Zen of Stateless State - The State Monad](https://www.youtube.com/watch?v=XxzzJiXHOJs)
+- [Don't fear the monad - Brian Beckman](https://www.youtube.com/watch?v=ZhuHCtR3xq8)
+- [Brian Beckman: The Zen of Stateless State - The State Monad](https://www.youtube.com/watch?v=XxzzJiXHOJs)
 
 ## Javascript
 
@@ -171,7 +169,7 @@ Video series das aulas do Bartosz Milewski de teoria das cateorias.
 
 [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
 
-#### Books
+#### Livros
 [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
 
 [Functional Light Programming](https://github.com/getify/functional-light-js)
@@ -180,11 +178,11 @@ Video series das aulas do Bartosz Milewski de teoria das cateorias.
 
 [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)
 
-[Manning Functional Programming in JavaScript](https://www.manning.com/books/functional-programming-in-javascript)
+[Manning Functional Programming in JavaScript](https://www.manning.com/Livros/functional-programming-in-javascript)
 
 [Functional Javascript O'relly](http://shop.oreilly.com/product/0636920028857.do)
 
-#### Courses
+#### Cursos
 [fp-begginer - ramda](http://paqmind.com/courses/fp-beginner/)
 
 #### Videos
@@ -192,64 +190,105 @@ Video series das aulas do Bartosz Milewski de teoria das cateorias.
 
 ## Haskell
 
-[Functional Programming in Haskell](https://github.com/caiorss/Functional-Programming/blob/master/haskell/README.org)
+- [Functional Programming in Haskell](https://github.com/caiorss/Functional-Programming/blob/master/haskell/README.org)
+- [Category Theory](https://en.wikiLivros.org/wiki/Haskell/Category_theory)
+- [Adventure with Types in Haskell - Simon Peyton Jones (Lecture 1)](https://youtu.be/6COvD8oynmI?list=RD6COvD8oynmI)
 
-[Category Theory](https://en.wikibooks.org/wiki/Haskell/Category_theory)
+#### Cursos
 
-[Adventure with Types in Haskell - Simon Peyton Jones (Lecture 1)](https://youtu.be/6COvD8oynmI?list=RD6COvD8oynmI)
+- [Haskell Course - NPTEL](http://nptel.ac.in/courses/106106137/)
+- [FUNCTIONAL PROGRAMMING - University of Edinburgh](https://www.inf.ed.ac.uk/teaching/courses/inf1/fp/)
 
-#### Courses
-
-[Haskell Course - NPTEL](http://nptel.ac.in/courses/106106137/)
-
-[FUNCTIONAL PROGRAMMING - University of Edinburgh](https://www.inf.ed.ac.uk/teaching/courses/inf1/fp/)
-
-#### Books
-[Learn You A Haskell For Great Good](http://learnyouahaskell.com/)
-
-[Real World Haskell](http://book.realworldhaskell.org/)
-
-[HaskellBook](http://haskellbook.com/)
+#### Livros
+- [Learn You A Haskell For Great Good](http://learnyouahaskell.com/)
+- [Real World Haskell](http://book.realworldhaskell.org/)
+- [HaskellBook](http://haskellbook.com/)
 
 ## Scala
 
 ## Videos
-[Scala Monads: Declutter Your Code With Monadic Design](https://youtu.be/Mw_Jnn_Y5iA)
+- [Scala Monads: Declutter Your Code With Monadic Design](https://youtu.be/Mw_Jnn_Y5iA)
 
 ## Courses
-[Coursera - Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)
+- [Coursera - Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)
+    - Serie de cursos do coursera sobre Scala e programação funcional com o criado da linguagem.
 
 ## SML Ocaml
 
-#### Courses
-[The Little MLer](http://www.ccs.neu.edu/home/matthias/BTML/) ****
+#### Cursos
+- [The Little MLer](http://www.ccs.neu.edu/home/matthias/BTML/) ****
 Aquele curso do cousera
+- [Programming Languages](https://pt.coursera.org/learn/programming-languages) *****
+    - Curso em SML, Ruby e Scheme com uma abordagem a programação funcional muito interessante.
+- [Functional Programming by Example - Ocaml](https://gitlab.com/cyberglot/Functional-Programming/tree/master/ocaml)
 
-[Programming Languages](https://pt.coursera.org/learn/programming-languages) *****
-Curso em SML, Ruby e Scheme com uma abordagem a programação funcional muito interessante.
-
-[Functional Programming by Example - Ocaml](https://gitlab.com/cyberglot/Functional-Programming/tree/master/ocaml)
-
-## Books
-[Introduction to Programming using SML](http://catalogue.pearsoned.co.uk/educator/product/Introduction-to-Programming-using-SML/9780201398205.page)
+## Livros
+- [Introduction to Programming using SML](http://catalogue.pearsoned.co.uk/educator/product/Introduction-to-Programming-using-SML/9780201398205.page)
 
 ## Elixir
 
-#### Courses
-[Try Elixir - CodeSchool](https://www.codeschool.com/courses/try-elixir)
+#### Cursos
+- [Try Elixir - CodeSchool](https://www.codeschool.com/courses/try-elixir)
 
 ## Ruby
-[Mockingbirds and Simple Recursive Combinators in Ruby](https://github.com/raganwald-deprecated/homoiconic/blob/master/2011/11/mockingbirds.md)
+- [Mockingbirds and Simple Recursive Combinators in Ruby](https://github.com/raganwald-deprecated/homoiconic/blob/master/2011/11/mockingbirds.md)
 
 ## Elm
+#### Comunidade
 
 ## Scheme
-[Functional Programming by Example - Scheme](https://github.com/caiorss/Functional-Programming/blob/master/scheme/README.org)
+- [Functional Programming by Example - Scheme](https://github.com/caiorss/Functional-Programming/blob/master/scheme/README.org)
 
-[SICP](https://mitpress.mit.edu/sites/default/files/6515.pdf)
-Livro com teoria e exercicios em Scheme que era usado para ensinar introdução a computação do MIT.
+- [SICP](https://mitpress.mit.edu/sites/default/files/6515.pdf)
+    - Livro com teoria e exercicios em Scheme que era usado para ensinar introdução a computação do MIT.
 
 ## Common Lisp
+- [On Lisp](http://www.paulgraham.com/onlisp.html)
 
 ## Clojure
+#### Livros
+1. Básico: [Clojure for the brave and true](https://www.braveclojure.com/clojure-for-the-brave-and-true/)
+1. Básico: [Programming Clojure 2ed](https://pragprog.com/book/shcloj2/programming-clojure)
+1. Intermediário Básico: [The Joy of Clojure](https://www.manning.com/books/the-joy-of-clojure-second-edition)
+1. Intermediário Avançado\*: [Clojure Applied: From Practice to Practitioner](https://pragprog.com/book/vmclojeco/clojure-applied)
+1. Avançado: [Mastering Clojure Macros](https://pragprog.com/book/cjclojure/mastering-clojure-macros)
 
+#### Comunidade
+- [clj-br](https://github.com/clj-br)
+- [clojurians](http://clojurians.net/)
+
+##### ClojureBridge SP
+
+@ClojureBridgeSP no Twitter
+- [Material dos workshops](https://github.com/ClojureBridgeSP)
+- [Curriculum](http://clojurebridgesp.github.io/curriculum)
+
+#### Cursos
+- [exercism.io](http://exercism.io/languages/clojure/about)
+- [Clojure Academy](https://clojurecademy.com/)
+- [Hacker Rank - Functional Programming Path](https://www.hackerrank.com/domains/fp/intro)
+- [Clojure Koans](http://clojurekoans.com/)
+- [Clojure Katas](http://clojurekatas.org/)
+- [Wonderland Clojure Katas](https://github.com/gigasquid/wonderland-clojure-katas)
+- [4Clojure](http://www.4clojure.com/)
+
+#### Sites
+- [Clojure ToolBox](https://www.clojure-toolbox.com/) 
+    - Guia de libraries e tools em Clojure
+- [Clojure Styleguide](https://github.com/bbatsov/clojure-style-guide) 
+    - Guia de estilo e organização de codigo em Clojure
+- [Clojure By Example](https://kimh.github.io/clojure-by-example/) 
+    - Guia de Clojure por meio de exemplos
+- [Clojure CheatSheet](https://clojure.org/api/cheatsheet) 
+    - CheatSheet de funções em clojure
+
+## ClojureScript
+
+#### Livros
+* [ClojureScript: Up And Running](http://shop.oreilly.com/product/0636920025139.do)
+* [Clojure Cookbook](http://clojure-cookbook.com/)
+* [Learning ClojureScript](https://www.packtpub.com/web-development/learning-clojurescript)
+
+#### Cursos
+- [Modern ClojureScript](https://github.com/magomimmo/modern-cljs)
+- [ClojureScript Workshop](https://www.niwi.nz/cljs-workshop/)
