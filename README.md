@@ -163,10 +163,10 @@ Awesome Free Functional Programming Resources
 
 ## Scala
 
-## Videos
+#### Videos
 - [Scala Monads: Declutter Your Code With Monadic Design](https://youtu.be/Mw_Jnn_Y5iA)
 
-## Courses
+#### Courses
 - [Coursera - Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)
     - Serie de cursos do coursera sobre Scala e programação funcional com o criado da linguagem.
 
@@ -179,13 +179,22 @@ Aquele curso do cousera
     - Curso em SML, Ruby e Scheme com uma abordagem a programação funcional muito interessante.
 - [Functional Programming by Example - Ocaml](https://gitlab.com/cyberglot/Functional-Programming/tree/master/ocaml)
 
-## Livros
+#### Livros
 - [Introduction to Programming using SML](http://catalogue.pearsoned.co.uk/educator/product/Introduction-to-Programming-using-SML/9780201398205.page)
+
+## Erlang
+
+#### Livros
+* [Learn you some Erlang for great good!](http://learnyousomeerlang.com/)
+* [Erlang in Anger](http://www.erlang-in-anger.com/)
+* [The Beam Book](https://happi.github.io/theBeamBook/)
+  * The Erlang Runtime System
 
 ## Elixir
 
 #### Cursos
 - [Try Elixir - CodeSchool](https://www.codeschool.com/courses/try-elixir)
+- [Elixir School](https://elixirschool.com/)
 
 ## Ruby
 - [Mockingbirds and Simple Recursive Combinators in Ruby](https://github.com/raganwald-deprecated/homoiconic/blob/master/2011/11/mockingbirds.md)
