@@ -57,10 +57,19 @@ Awesome Free Functional Programming Resources
 - [A Taste of the λ Calculus](http://www.flyingmachinestudios.com/programming/a-taste-of-the-lambda-calculus/)
 - [A Graphical Notation for the Lambda Calculus with Animated Reduction](http://dkeenan.com/Lambda/)
 - [Combinator Birds](http://www.angelfire.com/tx4/cus/combinator/birds.html)
+    - Summary of all combinators named by the book
 - [The SKI Combinator Calculus - a universal formal system](http://people.cs.uchicago.edu/~odonnell/Teacher/Lectures/Formal_Organization_of_Knowledge/Examples/combinator_calculus/)
+- [BCKW Combinators (Wikipedia)](https://en.wikipedia.org/wiki/B,_C,_K,_W_system)
+- [Ski Combinators (Wikipedia)](https://en.wikipedia.org/wiki/SKI_combinator_calculus)
+- [Mockingbirds and Simple Recursive Combinators in Ruby](https://github.com/raganwald-deprecated/homoiconic/blob/master/2011/11/mockingbirds.md)
+
+#### Talk
+- [Programming With Nothing](http://rubymanor.org/3/videos/programming_with_nothing/)
 
 #### Livros
 - [Lambda-Calculus and Combinators: An Introduction](https://www.amazon.com/Lambda-Calculus-Combinators-Introduction-Roger-Hindley/dp/0521898854)
+- [To Mock a Mocking Bird](https://www.amazon.com/Mock-Mockingbird-Other-Logic-Puzzles/dp/0192801422)
+- [To Mock a Mockingbird and Other Logic Puzzles](https://www.amazon.com/exec/obidos/tg/detail/-/0394534913/104-1615637-3868724)
 
 #### Jogos
 
@@ -68,9 +77,6 @@ Awesome Free Functional Programming Resources
 - [AlligatorEggs Combinator](http://metatoys.org/alligator/)
 - [Cube Composer - Game](https://david-peter.de/cube-composer/)
 
-
-#### Livros
-- [To Mock a Mockingbird and Other Logic Puzzles](https://www.amazon.com/exec/obidos/tg/detail/-/0394534913/104-1615637-3868724)
 
 ## Teoria
 
@@ -92,12 +98,15 @@ Awesome Free Functional Programming Resources
 
 ## Javascript
 
-- [Common combinators in JavaScript](https://gist.github.com/Avaq/1f0636ec5c8d6aed2e45)
-- [Combinators-js](https://github.com/benji6/combinators-js)
 - [A Gentle Introduction to Functional JavaScript](https://github.com/ChetHarrison/A-Gentle-Introduction-to-Functional-JavaScript)
 - [Functional programming patterns for the non-mathematician](https://www.youtube.com/watch?v=AvgwKjTPMmM)
 - [functional-programming-javascript](https://github.com/busypeoples/functional-programming-javascript)
 
+#### Combinators
+- [Common combinators in JavaScript](https://gist.github.com/Avaq/1f0636ec5c8d6aed2e45)
+- [Combinators-js](https://github.com/benji6/combinators-js)
+- [Fantasy Combinators](https://github.com/fantasyland/fantasy-combinators)
+- [Fantasy Birds](https://github.com/fantasyland/fantasy-birds)
 
 #### Libs
 
@@ -105,8 +114,6 @@ Awesome Free Functional Programming Resources
 - [Crocks](https://github.com/evilsoft/crocks)
 - [Union Types](https://github.com/paldepind/union-type)
 - [Ramda](ramdajs.com)
-- [Fantasy Combinators](https://github.com/fantasyland/fantasy-combinators)
-- [Fantasy Birds](https://github.com/fantasyland/fantasy-birds)
 - [Church Encoding in JS](https://github.com/benji6/church)
 - [Folktale](https://github.com/origamitower/folktale)
 
