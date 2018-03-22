@@ -1,13 +1,14 @@
 
 
 # Awesome Funcional Programming Studies
-Awesome Free Functional Programming Resources
+
+Estudos de programaço funcional maneiros.
 
 [Contributing.md](/contributing.md)
 
 ## Sumário
 
-- [Functional Paradigm](functional-paradigm)
+- [Paradigma Funcional](paradigma-funcional)
 - [Lambda Calculus - Combinators](lambda-calculus-combinators)
 - [Teoria](teoria)
 - [Javascript](javascript)
@@ -21,7 +22,7 @@ Awesome Free Functional Programming Resources
 - [Common Lisp](common-lisp)
 - [Clojure](clojure)
 
-## Functional Paradigm
+## Paradigma Funcional
 
 - [Functional programming study plan](https://ericdouglas.github.io/2016/12/04/functional-programming-study-plan/)
 - [awesome functional programming](https://github.com/xgrommx/awesome-functional-programming)
@@ -199,12 +200,38 @@ Aquele curso do cousera
 
 ## Elixir
 
+#### Comunidade
+- [ElixirBR telegram](https://t.me/elixirbr)
+- [Meetup ELUG](https://www.meetup.com/elug_sp/)
+- [Elixir Weekly](https://elixirweekly.net/)
+
+#### Videos
+- [Zero to Hero](https://www.youtube.com/playlist?list=PLaY7qWIrmqtFoZLvOvYRZG5hl367UybRp)
+
+#### Cast
+- [ElixirCasts](https://elixircasts.io/)
+
+#### Livros
+- [Elixir In Action](https://www.manning.com/books/elixir-in-action)
+- [Erlang in Anger(Free)](http://www.erlang-in-anger.com/)
+
 #### Cursos
 - [Try Elixir - CodeSchool](https://www.codeschool.com/courses/try-elixir)
 - [Elixir School](https://elixirschool.com/)
+- [30 Days Of Elixir](https://github.com/seven1m/30-days-of-elixir)
+- [Discover Elixir Phoenix](https://www.ludu.co/course/discover-elixir-phoenix/)
+- [Elixir FP](https://github.com/kblake/functional-programming)
+- [Koans Exercices](http://elixirkoans.io/)
+
+- [Joy Of Elixir](https://joyofelixir.com/toc.html)
+- [CheatSheet](https://media.pragprog.com/titles/elixir/ElixirCheat.pdf)
+- [Elixir Style Guide](https://github.com/christopheradams/elixir_style_guide)
+- [Elixir and Erlang packages and resources](https://elixir.libhunt.com/)
+- [Learn x in y](https://learnxinyminutes.com/docs/elixir/)
 
 ## Ruby
 - [Mockingbirds and Simple Recursive Combinators in Ruby](https://github.com/raganwald-deprecated/homoiconic/blob/master/2011/11/mockingbirds.md)
+
 
 ## Elm
 
