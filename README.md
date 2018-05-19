@@ -101,7 +101,8 @@ Estudos de programaço funcional maneiros.
 
 - [Generators, iterators, control and continuations](http://gallium.inria.fr/blog/generators-iterators-control-and-continuations/) :star: :star: :star: :star:
   + Artigo do Gagallium/Inria (em OCaml) sobre estruturas de dados, travessia destas e inversão de controle.
-
+- [Implementing, and Understanding Type Classes](http://www.okmij.org/ftp/Computation/typeclass.html) :star: :star: :star: :star: :star:
+  + O artigo explica o mecanismo de type classes de Haskell com paralelos encodings em OCaml
 
 ## Javascript
 
