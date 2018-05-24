@@ -97,6 +97,13 @@ Estudos de programaço funcional maneiros.
 - [Don't fear the monad - Brian Beckman](https://www.youtube.com/watch?v=ZhuHCtR3xq8)
 - [Brian Beckman: The Zen of Stateless State - The State Monad](https://www.youtube.com/watch?v=XxzzJiXHOJs)
 
+#### Artigos
+
+- [Generators, iterators, control and continuations](http://gallium.inria.fr/blog/generators-iterators-control-and-continuations/) :star: :star: :star: :star:
+  + Artigo do Gagallium/Inria (em OCaml) sobre estruturas de dados, travessia destas e inversão de controle.
+- [Implementing, and Understanding Type Classes](http://www.okmij.org/ftp/Computation/typeclass.html) :star: :star: :star: :star: :star:
+  + O artigo explica o mecanismo de type classes de Haskell com paralelos encodings em OCaml
+
 ## Javascript
 
 - [A Gentle Introduction to Functional JavaScript](https://github.com/ChetHarrison/A-Gentle-Introduction-to-Functional-JavaScript)
