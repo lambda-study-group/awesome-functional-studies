@@ -8,19 +8,19 @@ Estudos de programaço funcional maneiros.
 
 ## Sumário
 
-- [Paradigma Funcional](paradigma-funcional)
-- [Lambda Calculus - Combinators](lambda-calculus-combinators)
-- [Teoria](teoria)
-- [Javascript](javascript)
-- [Haskell](haskel)
-- [Scala](scala)
-- [SML Ocaml](SML-Ocaml)
-- [Elixir](elixir)
-- [Ruby](ruby)
-- [Elm](elm)
-- [Scheme](scheme)
-- [Common Lisp](common-lisp)
-- [Clojure](clojure)
+- [Paradigma Funcional](#paradigma-funcional)
+- [Lambda Calculus - Combinators](#lambda-calculus-combinators)
+- [Teoria](#teoria)
+- [Javascript](#javascript)
+- [Haskell](#haskell)
+- [Scala](#scala)
+- [SML Ocaml](#sml-ocaml)
+- [Elixir](#elixir)
+- [Ruby](#ruby)
+- [Elm](#elm)
+- [Scheme](#scheme)
+- [Common Lisp](#common-lisp)
+- [Clojure](#clojure)
 
 ## Paradigma Funcional
 
@@ -304,13 +304,13 @@ Aquele curso do cousera
 
 #### Sites
 - [Lambda Calculus: The Y combinator in clojure](http://blog.klipse.tech/lambda/2016/08/07/pure-y-combinator-clojure.html)
-- [Clojure ToolBox](https://www.clojure-toolbox.com/) 
+- [Clojure ToolBox](https://www.clojure-toolbox.com/)
     - Guia de libraries e tools em Clojure
-- [Clojure Styleguide](https://github.com/bbatsov/clojure-style-guide) 
+- [Clojure Styleguide](https://github.com/bbatsov/clojure-style-guide)
     - Guia de estilo e organização de codigo em Clojure
-- [Clojure By Example](https://kimh.github.io/clojure-by-example/) 
+- [Clojure By Example](https://kimh.github.io/clojure-by-example/)
     - Guia de Clojure por meio de exemplos
-- [Clojure CheatSheet](https://clojure.org/api/cheatsheet) 
+- [Clojure CheatSheet](https://clojure.org/api/cheatsheet)
     - CheatSheet de funções em clojure
 - [Clojure Design Patterns](http://mishadoff.com/blog/clojure-design-patterns/)
 
