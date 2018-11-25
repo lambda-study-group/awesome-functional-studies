@@ -223,6 +223,8 @@ Aquele curso do cousera
 - [Erlang in Anger(Free)](http://www.erlang-in-anger.com/)
 - [Programming Elixir 1.6](https://pragprog.com/book/elixir16/programming-elixir-1-6)
 - [Programming Phoenix](https://pragprog.com/book/phoenix/programming-phoenix)
+- [Adopting Elixir](https://pragprog.com/book/tvmelixir/adopting-elixir)
+- [Metaprogramming Elixir](https://pragprog.com/book/cmelixir/metaprogramming-elixir)
 
 #### Cursos
 - [Getting started](https://elixir-lang.org/getting-started/introduction.html)
