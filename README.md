@@ -225,6 +225,7 @@ Aquele curso do cousera
 - [Programming Phoenix](https://pragprog.com/book/phoenix/programming-phoenix)
 
 #### Cursos
+- [Getting started](https://elixir-lang.org/getting-started/introduction.html)
 - [Try Elixir - CodeSchool](https://www.codeschool.com/courses/try-elixir)
 - [Elixir School](https://elixirschool.com/)
 - [30 Days Of Elixir](https://github.com/seven1m/30-days-of-elixir)
