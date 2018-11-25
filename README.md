@@ -221,6 +221,8 @@ Aquele curso do cousera
 #### Livros
 - [Elixir In Action](https://www.manning.com/books/elixir-in-action)
 - [Erlang in Anger(Free)](http://www.erlang-in-anger.com/)
+- [Programming Elixir 1.6](https://pragprog.com/book/elixir16/programming-elixir-1-6)
+- [Programming Phoenix](https://pragprog.com/book/phoenix/programming-phoenix)
 
 #### Cursos
 - [Try Elixir - CodeSchool](https://www.codeschool.com/courses/try-elixir)
