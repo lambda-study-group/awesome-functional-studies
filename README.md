@@ -214,6 +214,11 @@ Aquele curso do cousera
 
 #### Videos
 - [Zero to Hero](https://www.youtube.com/playlist?list=PLaY7qWIrmqtFoZLvOvYRZG5hl367UybRp)
+- [Elixir: A Mini-Documentary](https://www.youtube.com/watch?v=lxYFOM3UJzo)
+
+#### Talks
+- [Phoenix a Web Framework for the New Web - José Valim](https://www.youtube.com/watch?v=bk3icU8iIto)
+- [The Elixir of Life - Fabio Akita](https://www.youtube.com/watch?v=8Ng6TfAj7Sk)
 
 #### Cast
 - [ElixirCasts](https://elixircasts.io/)
