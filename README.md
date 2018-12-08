@@ -168,13 +168,20 @@ Estudos de programaço funcional maneiros.
 
 #### Cursos
 
+- [School Of Haskell](https://www.schoolofhaskell.com/)
 - [Haskell Course - NPTEL](http://nptel.ac.in/courses/106106137/)
+- [Haskell Fast Hard](https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/haskell-fast-hard)
 - [FUNCTIONAL PROGRAMMING - University of Edinburgh](https://www.inf.ed.ac.uk/teaching/courses/inf1/fp/)
 
 #### Livros
-- [Learn You A Haskell For Great Good](http://learnyouahaskell.com/)
+
+- [Learn You A Haskell For Great Good(Free)](http://learnyouahaskell.com/)
 - [Real World Haskell](http://book.realworldhaskell.org/)
+- [Write Yourself a Scheme in 48 Hours](https://upload.wikimedia.org/wikipedia/commons/a/aa/Write_Yourself_a_Scheme_in_48_Hours.pdf)
+    - An Introduction to Haskell through Example
 - [HaskellBook](http://haskellbook.com/)
+- [Write you a Haskell](http://dev.stephendiehl.com/fun/)
+    - Building a modern functional compiler from first principles.
 
 ## Scala
 
