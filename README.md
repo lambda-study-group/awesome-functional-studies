@@ -222,6 +222,11 @@ Aquele curso do cousera
 
 #### Videos
 - [Zero to Hero](https://www.youtube.com/playlist?list=PLaY7qWIrmqtFoZLvOvYRZG5hl367UybRp)
+- [Elixir: A Mini-Documentary](https://www.youtube.com/watch?v=lxYFOM3UJzo)
+
+#### Talks
+- [Phoenix a Web Framework for the New Web - José Valim](https://www.youtube.com/watch?v=bk3icU8iIto)
+- [The Elixir of Life - Fabio Akita](https://www.youtube.com/watch?v=8Ng6TfAj7Sk)
 
 #### Cast
 - [ElixirCasts](https://elixircasts.io/)
@@ -229,8 +234,13 @@ Aquele curso do cousera
 #### Livros
 - [Elixir In Action](https://www.manning.com/books/elixir-in-action)
 - [Erlang in Anger(Free)](http://www.erlang-in-anger.com/)
+- [Programming Elixir 1.6](https://pragprog.com/book/elixir16/programming-elixir-1-6)
+- [Programming Phoenix](https://pragprog.com/book/phoenix/programming-phoenix)
+- [Adopting Elixir](https://pragprog.com/book/tvmelixir/adopting-elixir)
+- [Metaprogramming Elixir](https://pragprog.com/book/cmelixir/metaprogramming-elixir)
 
 #### Cursos
+- [Getting started](https://elixir-lang.org/getting-started/introduction.html)
 - [Try Elixir - CodeSchool](https://www.codeschool.com/courses/try-elixir)
 - [Elixir School](https://elixirschool.com/)
 - [30 Days Of Elixir](https://github.com/seven1m/30-days-of-elixir)
