@@ -21,6 +21,7 @@ Estudos de programaço funcional maneiros.
 - [Scheme](#scheme)
 - [Common Lisp](#common-lisp)
 - [Clojure](#clojure)
+- [Idris](#idris)
 
 ## Paradigma Funcional
 
@@ -331,3 +332,25 @@ Aquele curso do cousera
 #### Cursos
 - [Modern ClojureScript](https://github.com/magomimmo/modern-cljs)
 - [ClojureScript Workshop](https://www.niwi.nz/cljs-workshop/)
+
+## Idris
+
+### Livros
+- [Type-Driven Development with Idris](https://www.manning.com/books/type-driven-development-with-idris)
+- [Software Foundations](https://idris-hackers.github.io/software-foundations/pdf/sf-idris-2018.pdf)
+
+### Sites
+- [The Idris tutorial](http://docs.idris-lang.org/en/latest/tutorial/index.html)
+
+### Talks
+- [Type-Driven Development in Idris — Edwin Brady](https://www.youtube.com/watch?v=X36ye-1x_HQ)
+- [Idris: Practical Dependent Types with Practical Examples — Brian McKenna](https://www.youtube.com/watch?v=4i7KrG1Afbk)
+- [Type-driven Development of Communicating Systems in Idris — Edwin Brady](https://www.youtube.com/watch?v=IQO9N0Y8tcM)
+
+### Artigos
+- [10 things Idris improved over Haskell](https://deque.blog/2017/06/14/10-things-idris-improved-over-haskell/)
+- [Tests vs. Types](http://kevinmahoney.co.uk/articles/tests-vs-types/)
+
+### Papers
+- [Programming and Reasoning w/ Side-Effects in Idris](https://eb.host.cs.st-andrews.ac.uk/drafts/eff-tutorial.pdf)
+- [Programming and Reasoning w/ Algebraic Effects and Dependent Types](https://eb.host.cs.st-andrews.ac.uk/drafts/effects.pdf)
