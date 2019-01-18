@@ -14,7 +14,8 @@ Estudos de programaço funcional maneiros.
 - [Javascript](#javascript)
 - [Haskell](#haskell)
 - [Scala](#scala)
-- [SML Ocaml](#sml-ocaml)
+- [SML](#sml)
+- [OCaml](#ocaml)
 - [Elixir](#elixir)
 - [Ruby](#ruby)
 - [Elm](#elm)
@@ -193,17 +194,23 @@ Estudos de programaço funcional maneiros.
 - [Coursera - Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)
     - Serie de cursos do coursera sobre Scala e programação funcional com o criado da linguagem.
 
-## SML Ocaml
+## SML
 
 #### Cursos
 - [The Little MLer](http://www.ccs.neu.edu/home/matthias/BTML/) ****
 Aquele curso do cousera
 - [Programming Languages](https://pt.coursera.org/learn/programming-languages) *****
     - Curso em SML, Ruby e Scheme com uma abordagem a programação funcional muito interessante.
-- [Functional Programming by Example - Ocaml](https://gitlab.com/cyberglot/Functional-Programming/tree/master/ocaml)
 
 #### Livros
 - [Introduction to Programming using SML](http://catalogue.pearsoned.co.uk/educator/product/Introduction-to-Programming-using-SML/9780201398205.page)
+
+## Ocaml
+- [Ocaml docs](https://ocaml.org/learn/tutorials/structure_of_ocaml_programs.html)
+- [First steps in OCaml](https://caml.inria.fr/pub/docs/u3-ocaml/ocaml-steps.html)
+- [OCaml for the Skeptical](https://www2.lib.uchicago.edu/keith/ocaml-class/functions.html)
+- [Functional Programming by Example - Ocaml](https://gitlab.com/cyberglot/Functional-Programming/tree/master/ocaml)
+
 
 ## Erlang
 
