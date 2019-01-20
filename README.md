@@ -206,9 +206,21 @@ Aquele curso do cousera
 - [Introduction to Programming using SML](http://catalogue.pearsoned.co.uk/educator/product/Introduction-to-Programming-using-SML/9780201398205.page)
 
 ## Ocaml
-- [Ocaml docs](https://ocaml.org/learn/tutorials/structure_of_ocaml_programs.html)
-- [First steps in OCaml](https://caml.inria.fr/pub/docs/u3-ocaml/ocaml-steps.html)
+
+#### OCaml docs
+- [OCaml Tutorials](http://ocaml.org/learn/tutorials/) *****
+- [Solution of 99 Problems](http://ocaml.org/learn/tutorials/99problems.html) *****
+- [Learn OCaml](http://ocaml.org/learn/) *****
+
+#### Livros
+- [Real World OCaml](https://v1.realworldocaml.org/v1/en/html/index.html)
 - [OCaml for the Skeptical](https://www2.lib.uchicago.edu/keith/ocaml-class/functions.html)
+
+- [Try OCaml](https://try.ocamlpro.com/)
+- [Introduction to OCaml](https://blog.baturin.org/introduction-to-ocaml.html)
+- [Beginners guide to OCaml beginners guides](http://blog.nullspace.io/beginners-guide-to-ocaml-beginners-guides.html)
+- [Ocaml Structure of Ocaml](https://ocaml.org/learn/tutorials/structure_of_ocaml_programs.html)
+- [First steps in OCaml](https://caml.inria.fr/pub/docs/u3-ocaml/ocaml-steps.html)
 - [Functional Programming by Example - Ocaml](https://gitlab.com/cyberglot/Functional-Programming/tree/master/ocaml)
 
 
