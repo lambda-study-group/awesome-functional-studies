@@ -367,6 +367,7 @@ Aquele curso do cousera
 ### Livros
 - [Type-Driven Development with Idris](https://www.manning.com/books/type-driven-development-with-idris)
 - [Software Foundations](https://idris-hackers.github.io/software-foundations/pdf/sf-idris-2018.pdf)
+- [Gentle Introduction to Dependent Types with Idris](https://leanpub.com/gidti)
 
 ### Sites
 - [The Idris tutorial](http://docs.idris-lang.org/en/latest/tutorial/index.html)
