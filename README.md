@@ -6,11 +6,11 @@ Estudos de programaço funcional maneiros.
 
 [Contributing.md](/contributing.md)
 
-## Sumário
+## Summary
 
-- [Paradigma Funcional](#paradigma-funcional)
+- [Functional Paradigm](#paradigm)
 - [Lambda Calculus - Combinators](#lambda-calculus-combinators)
-- [Teoria](#teoria)
+- [Theory](#theory)
 - [Javascript](#javascript)
 - [Haskell](#haskell)
 - [Scala](#scala)
@@ -24,7 +24,7 @@ Estudos de programaço funcional maneiros.
 - [Clojure](#clojure)
 - [Idris](#idris)
 
-## Paradigma Funcional
+## Paradigm
 
 - [Functional programming study plan](https://ericdouglas.github.io/2016/12/04/functional-programming-study-plan/)
 - [awesome functional programming](https://github.com/xgrommx/awesome-functional-programming)
@@ -39,7 +39,7 @@ Estudos de programaço funcional maneiros.
 - [C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals](https://www.youtube.com/playlist?list=PLTA0Ta9Qyspa5Nayx0VCHj5AHQJqp1clD)
 
 
-#### Cursos de iniciação ao paradigma
+#### Courses
 
 - [Programming Languages](https://pt.coursera.org/learn/programming-languages) *****
     - Curso em SML, Ruby e Scheme com uma abordagem a programação funcional muito interessante.
@@ -47,13 +47,10 @@ Estudos de programaço funcional maneiros.
 - [SICP](https://mitpress.mit.edu/sites/default/files/6515.pdf)
     - Livro com teoria e exercicios em Scheme que era usado para ensinar introdução a computação do MIT.
 
-#### Artigos
-
-- [Functional Programming should be your #1 priority for 2015](https://medium.com/@jugoncalves/functional-programming-should-be-your-1-priority-for-2015-47dd4641d6b9)
-
-#### Paper
+#### Papers
 
 - [Why Functional Programming Matters](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
+- [Functional Programming should be your #1 priority for 2015](https://medium.com/@jugoncalves/functional-programming-should-be-your-1-priority-for-2015-47dd4641d6b9)
 
 ## Lambda Calculus-Combinators
 
@@ -66,22 +63,22 @@ Estudos de programaço funcional maneiros.
 - [Ski Combinators (Wikipedia)](https://en.wikipedia.org/wiki/SKI_combinator_calculus)
 - [Mockingbirds and Simple Recursive Combinators in Ruby](https://github.com/raganwald-deprecated/homoiconic/blob/master/2011/11/mockingbirds.md)
 
-#### Talk
+#### Talks
 - [Programming With Nothing](http://rubymanor.org/3/videos/programming_with_nothing/)
 
-#### Livros
+#### Books
 - [Lambda-Calculus and Combinators: An Introduction](https://www.amazon.com/Lambda-Calculus-Combinators-Introduction-Roger-Hindley/dp/0521898854)
 - [To Mock a Mocking Bird](https://www.amazon.com/Mock-Mockingbird-Other-Logic-Puzzles/dp/0192801422)
 - [To Mock a Mockingbird and Other Logic Puzzles](https://www.amazon.com/exec/obidos/tg/detail/-/0394534913/104-1615637-3868724)
 
-#### Jogos
+#### Games
 
 - [AlligatorEggs - Game](http://worrydream.com/AlligatorEggs/)
 - [AlligatorEggs Combinator](http://metatoys.org/alligator/)
 - [Cube Composer - Game](https://david-peter.de/cube-composer/)
 
 
-## Teoria
+## Theory
 
 #### Livros
 - [Category Theory for Programmers by Bartosz Milewski](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) *****
@@ -90,7 +87,7 @@ Estudos de programaço funcional maneiros.
 - [The Algebra of Algebraic Data Types](http://chris-taylor.github.io/blog/2013/02/10/the-algebra-of-algebraic-data-types/)
 - [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 
-#### Cursos
+#### Courses
 - [Video-series - Category theory for programmers by Bartosz Milewski](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_) *****
     - Video series das aulas do Bartosz Milewski de teoria das cateorias.
 
@@ -99,7 +96,7 @@ Estudos de programaço funcional maneiros.
 - [Don't fear the monad - Brian Beckman](https://www.youtube.com/watch?v=ZhuHCtR3xq8)
 - [Brian Beckman: The Zen of Stateless State - The State Monad](https://www.youtube.com/watch?v=XxzzJiXHOJs)
 
-#### Artigos
+#### Blog posts / Papers
 
 - [Generators, iterators, control and continuations](http://gallium.inria.fr/blog/generators-iterators-control-and-continuations/) :star: :star: :star: :star:
   + Artigo do Gagallium/Inria (em OCaml) sobre estruturas de dados, travessia destas e inversão de controle.
@@ -135,7 +132,7 @@ Estudos de programaço funcional maneiros.
 - [Pure JavaScript - Christian Johansen](https://vimeo.com/49384334)
 - [James Coglan: Practical functional programming: pick two | JSConf EU 2014](https://youtu.be/XcS-LdEBUkE)
 
-#### Artigos
+#### Blog posts / Papers
 
 - [Functional Programming In JavaScript — With Practical Examples](https://medium.freecodecamp.org/functional-programming-in-js-with-practical-examples-part-1-87c2b0dbc276)
 - [Thinking in Ramda Series](http://randycoulman.com/blog/2016/07/19/thinking-in-ramda-wrap-up/)
@@ -148,7 +145,7 @@ Estudos de programaço funcional maneiros.
 - [A Monad in Practicality: First-Class Failures](http://robotlolita.me/2013/12/08/a-monad-in-practicality-first-class-failures.html)
 - [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
 
-#### Livros
+#### Books
 - [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
 - [Functional Light Programming](https://github.com/getify/functional-light-js)
 - [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
@@ -156,7 +153,7 @@ Estudos de programaço funcional maneiros.
 - [Manning Functional Programming in JavaScript](https://www.manning.com/Livros/functional-programming-in-javascript)
 - [Functional Javascript O'relly](http://shop.oreilly.com/product/0636920028857.do)
 
-#### Cursos
+#### Courses
 - [fp-begginer - ramda](http://paqmind.com/courses/fp-beginner/)
 
 #### Videos
@@ -168,14 +165,14 @@ Estudos de programaço funcional maneiros.
 - [Category Theory](https://en.wikiLivros.org/wiki/Haskell/Category_theory)
 - [Adventure with Types in Haskell - Simon Peyton Jones (Lecture 1)](https://youtu.be/6COvD8oynmI?list=RD6COvD8oynmI)
 
-#### Cursos
+#### Courses
 
 - [School Of Haskell](https://www.schoolofhaskell.com/)
 - [Haskell Course - NPTEL](http://nptel.ac.in/courses/106106137/)
 - [Haskell Fast Hard](https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/haskell-fast-hard)
 - [FUNCTIONAL PROGRAMMING - University of Edinburgh](https://www.inf.ed.ac.uk/teaching/courses/inf1/fp/)
 
-#### Livros
+#### Books
 
 - [Learn You A Haskell For Great Good(Free)](http://learnyouahaskell.com/)
 - [Real World Haskell](http://book.realworldhaskell.org/)
@@ -196,23 +193,23 @@ Estudos de programaço funcional maneiros.
 
 ## SML
 
-#### Cursos
+#### Courses
 - [The Little MLer](http://www.ccs.neu.edu/home/matthias/BTML/) ****
 Aquele curso do cousera
 - [Programming Languages](https://pt.coursera.org/learn/programming-languages) *****
     - Curso em SML, Ruby e Scheme com uma abordagem a programação funcional muito interessante.
 
-#### Livros
+#### Books
 - [Introduction to Programming using SML](http://catalogue.pearsoned.co.uk/educator/product/Introduction-to-Programming-using-SML/9780201398205.page)
 
-## Ocaml
+## OCaml
 
 #### OCaml docs
 - [OCaml Tutorials](http://ocaml.org/learn/tutorials/) *****
 - [Solution of 99 Problems](http://ocaml.org/learn/tutorials/99problems.html) *****
 - [Learn OCaml](http://ocaml.org/learn/) *****
 
-#### Livros
+#### Books
 - [Real World OCaml](https://v1.realworldocaml.org/v1/en/html/index.html)
 - [OCaml for the Skeptical](https://www2.lib.uchicago.edu/keith/ocaml-class/functions.html)
 
@@ -226,7 +223,7 @@ Aquele curso do cousera
 
 ## Erlang
 
-#### Livros
+#### Books
 * [Learn you some Erlang for great good!](http://learnyousomeerlang.com/)
 * [Erlang in Anger](http://www.erlang-in-anger.com/)
 * [The Beam Book](https://happi.github.io/theBeamBook/)
@@ -234,7 +231,7 @@ Aquele curso do cousera
 
 ## Elixir
 
-#### Comunidade
+#### Community
 - [ElixirBR telegram](https://t.me/elixirbr)
 - [Meetup ELUG](https://www.meetup.com/elug_sp/)
 - [Elixir Weekly](https://elixirweekly.net/)
@@ -250,7 +247,7 @@ Aquele curso do cousera
 #### Cast
 - [ElixirCasts](https://elixircasts.io/)
 
-#### Livros
+#### Books
 - [Elixir In Action](https://www.manning.com/books/elixir-in-action)
 - [Erlang in Anger(Free)](http://www.erlang-in-anger.com/)
 - [Programming Elixir 1.6](https://pragprog.com/book/elixir16/programming-elixir-1-6)
@@ -258,7 +255,7 @@ Aquele curso do cousera
 - [Adopting Elixir](https://pragprog.com/book/tvmelixir/adopting-elixir)
 - [Metaprogramming Elixir](https://pragprog.com/book/cmelixir/metaprogramming-elixir)
 
-#### Cursos
+#### Courses
 - [Getting started](https://elixir-lang.org/getting-started/introduction.html)
 - [Try Elixir - CodeSchool](https://www.codeschool.com/courses/try-elixir)
 - [Elixir School](https://elixirschool.com/)
@@ -289,10 +286,10 @@ Aquele curso do cousera
 - [React Elm Components](https://github.com/evancz/react-elm-components)
     - Interop de React com Elm(Colocar componentes ELM no React)
 
-#### Cursos
+#### Courses
 - [Start Building Web Apps using Elmlang today](http://courses.knowthen.com/courses/enrolled/86520)
 
-#### Comunidade
+#### Community
 - [Telegram Elm Brasil](https://t.me/elmbrasil)
     - Grupo do tele brasileiro de Elm
 - [Elm Lang Slack](https://elmlang.slack.com)
@@ -307,13 +304,13 @@ Aquele curso do cousera
 
 ## Common Lisp
 
-#### Livros
+#### Books
 - [Practical Common Lisp](http://www.gigamonkeys.com/book/) *****
 - [On Lisp](http://www.paulgraham.com/onlisp.html) *****
 - [Lisp In Small Pieces](https://www.amazon.com/Lisp-Small-Pieces-Christian-Queinnec/dp/0521545668) ****
 
 ## Clojure
-#### Livros
+#### Books
 1. Básico: [Clojure for the brave and true](https://www.braveclojure.com/clojure-for-the-brave-and-true/)
 1. Básico: [Programming Clojure 2ed](https://pragprog.com/book/shcloj2/programming-clojure)
 1. Intermediário Básico: [The Joy of Clojure](https://www.manning.com/books/the-joy-of-clojure-second-edition)
@@ -330,7 +327,7 @@ Aquele curso do cousera
 - [Material dos workshops](https://github.com/ClojureBridgeSP)
 - [Curriculum](http://clojurebridgesp.github.io/curriculum)
 
-#### Cursos
+#### Courses
 - [exercism.io](http://exercism.io/languages/clojure/about)
 - [Clojure Academy](https://clojurecademy.com/)
 - [Hacker Rank - Functional Programming Path](https://www.hackerrank.com/domains/fp/intro)
@@ -353,18 +350,18 @@ Aquele curso do cousera
 
 ## ClojureScript
 
-#### Livros
+#### Books
 * [ClojureScript: Up And Running](http://shop.oreilly.com/product/0636920025139.do)
 * [Clojure Cookbook](http://clojure-cookbook.com/)
 * [Learning ClojureScript](https://www.packtpub.com/web-development/learning-clojurescript)
 
-#### Cursos
+#### Courses
 - [Modern ClojureScript](https://github.com/magomimmo/modern-cljs)
 - [ClojureScript Workshop](https://www.niwi.nz/cljs-workshop/)
 
 ## Idris
 
-### Livros
+### Books
 - [Type-Driven Development with Idris](https://www.manning.com/books/type-driven-development-with-idris)
 - [Software Foundations](https://idris-hackers.github.io/software-foundations/pdf/sf-idris-2018.pdf)
 - [Gentle Introduction to Dependent Types with Idris](https://leanpub.com/gidti)
@@ -377,7 +374,7 @@ Aquele curso do cousera
 - [Idris: Practical Dependent Types with Practical Examples — Brian McKenna](https://www.youtube.com/watch?v=4i7KrG1Afbk)
 - [Type-driven Development of Communicating Systems in Idris — Edwin Brady](https://www.youtube.com/watch?v=IQO9N0Y8tcM)
 
-### Artigos
+### Blog posts
 - [10 things Idris improved over Haskell](https://deque.blog/2017/06/14/10-things-idris-improved-over-haskell/)
 - [Tests vs. Types](http://kevinmahoney.co.uk/articles/tests-vs-types/)
 
