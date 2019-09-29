@@ -204,6 +204,8 @@ Aquele curso do cousera
 
 ## OCaml
 
+- [Telegram group - Reason & OCaml Brasil](https://t.me/reasonmlbrasil)
+
 #### OCaml docs
 - [OCaml Tutorials](http://ocaml.org/learn/tutorials/) *****
 - [Solution of 99 Problems](http://ocaml.org/learn/tutorials/99problems.html) *****
@@ -303,6 +305,8 @@ Aquele curso do cousera
     - Livro com teoria e exercicios em Scheme que era usado para ensinar introdução a computação do MIT.
 
 ## Common Lisp
+
+- [Telegram Group - CommonLispBrasil](https://t.me/commonlispbr)
 
 #### Books
 - [Practical Common Lisp](http://www.gigamonkeys.com/book/) *****
