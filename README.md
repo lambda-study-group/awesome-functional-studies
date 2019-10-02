@@ -298,6 +298,14 @@ Aquele curso do cousera
     - Slack de ELM
 - [Elm Weekly Newsletter](https://elmweekly.nl)
 
+#### Books
+- [Beginning Elm](https://elmprogramming.com)
+    - Livro online de Elm explicando diversos conceitos da linguagem com exemplos de código e diagramas
+- [Practical Elm](https://korban.net/elm/book/)
+    - Livro de Elm do Alex Korban
+- [Elm in Action](https://www.manning.com/books/elm-in-action)
+    - Livro de Elm do Richard Feldman
+
 ## Scheme
 - [Functional Programming by Example - Scheme](https://github.com/caiorss/Functional-Programming/blob/master/scheme/README.org)
 
