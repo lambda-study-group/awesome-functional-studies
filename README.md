@@ -311,6 +311,7 @@ Aquele curso do cousera
 
 - [SICP](https://mitpress.mit.edu/sites/default/files/6515.pdf)
     - Livro com teoria e exercicios em Scheme que era usado para ensinar introdução a computação do MIT.
+- [SICP Distilled](http://www.sicpdistilled.com/)
 
 ## Common Lisp
 
