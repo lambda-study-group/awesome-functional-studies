@@ -46,6 +46,8 @@ Estudos de programaço funcional maneiros.
 - [fp-course](https://github.com/data61/fp-course)
 - [SICP](https://mitpress.mit.edu/sites/default/files/6515.pdf)
     - Livro com teoria e exercicios em Scheme que era usado para ensinar introdução a computação do MIT.
+- [MIT 6.001 Structure and Interpretation, 1986](https://www.youtube.com/playlist?list=PLE18841CABEA24090)
+    - Playlist com as aulas da matéria Introdução à Computação, do MIT, baseada no SICP.
 
 #### Papers
 
@@ -70,6 +72,7 @@ Estudos de programaço funcional maneiros.
 - [Lambda-Calculus and Combinators: An Introduction](https://www.amazon.com/Lambda-Calculus-Combinators-Introduction-Roger-Hindley/dp/0521898854)
 - [To Mock a Mocking Bird](https://www.amazon.com/Mock-Mockingbird-Other-Logic-Puzzles/dp/0192801422)
 - [To Mock a Mockingbird and Other Logic Puzzles](https://www.amazon.com/exec/obidos/tg/detail/-/0394534913/104-1615637-3868724)
+- [An Introduction to Functional Programming Through Lambda Calculus](https://www.amazon.com.br/gp/product/0486478831/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)
 
 #### Games
 
@@ -171,6 +174,7 @@ Estudos de programaço funcional maneiros.
 - [Haskell Course - NPTEL](http://nptel.ac.in/courses/106106137/)
 - [Haskell Fast Hard](https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/haskell-fast-hard)
 - [FUNCTIONAL PROGRAMMING - University of Edinburgh](https://www.inf.ed.ac.uk/teaching/courses/inf1/fp/)
+- [Parallel and Concurrent Haskel](https://www.youtube.com/playlist?list=PLbgaMIhjbmEm_51-HWv9BQUXcmHYtl4sw)
 
 #### Books
 
@@ -181,15 +185,26 @@ Estudos de programaço funcional maneiros.
 - [HaskellBook](http://haskellbook.com/)
 - [Write you a Haskell](http://dev.stephendiehl.com/fun/)
     - Building a modern functional compiler from first principles.
+- [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/)
 
 ## Scala
 
 #### Videos
 - [Scala Monads: Declutter Your Code With Monadic Design](https://youtu.be/Mw_Jnn_Y5iA)
+- [Recursion Schemes Categorically](https://www.youtube.com/watch?v=PlFR6xBGphY)
+    - Apresentação da Oli junto com o Bartosz Milewski, no ScalaUA 2020
+- [Scaladores](https://www.youtube.com/c/scaladores/videos)
+    - Canal no youtube do grupo brasileiro sobre Scala
 
 #### Courses
 - [Coursera - Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)
     - Serie de cursos do coursera sobre Scala e programação funcional com o criado da linguagem.
+- [Scala With Cats](https://www.youtube.com/playlist?list=PLk2QkBPrDTjjf0oeODg-3wj-npZw_nA8P)
+    - Introdução à biblioteca Cats
+
+#### Books
+- [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)
+- [Scala With Cats](https://underscore.io/books/scala-with-cats/)
 
 ## SML
 
