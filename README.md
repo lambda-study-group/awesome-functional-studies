@@ -89,15 +89,21 @@ Estudos de programaço funcional maneiros.
 - [Type Theory & Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/ttfp.pdf)
 - [The Algebra of Algebraic Data Types](http://chris-taylor.github.io/blog/2013/02/10/the-algebra-of-algebraic-data-types/)
 - [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
+- [Types and Programming Languages](https://www.cis.upenn.edu/~bcpierce/tapl/)
 
 #### Courses
 - [Video-series - Category theory for programmers by Bartosz Milewski](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_) *****
     - Video series das aulas do Bartosz Milewski de teoria das cateorias.
+- [Type Theory Foundations](https://www.youtube.com/playlist?list=PLGCr8P_YncjXRzdGq2SjKv5F2J8HUFeqN)
+    - Série de vídeos das aulas do Robert Harper (Carnegie Mellon U) sobre type theory.
+- [Proof Theory Foundations](https://www.youtube.com/playlist?list=PL_zaeQ6Mf5FAYNk3GsK9tdj_Ce-eIfH_b)
+    - Sério de vídeos das aulas do Frank Pfenning (Carnegie Mellon U) sobre proof theory.
 
 #### Videos
 
 - [Don't fear the monad - Brian Beckman](https://www.youtube.com/watch?v=ZhuHCtR3xq8)
 - [Brian Beckman: The Zen of Stateless State - The State Monad](https://www.youtube.com/watch?v=XxzzJiXHOJs)
+- [A Totally Non-Terrifying, Practical Introduction to Type-Level Programming](https://www.youtube.com/watch?v=6FRJfEhlqyg)
 
 #### Blog posts / Papers
 
@@ -175,6 +181,7 @@ Estudos de programaço funcional maneiros.
 - [Haskell Fast Hard](https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/haskell-fast-hard)
 - [FUNCTIONAL PROGRAMMING - University of Edinburgh](https://www.inf.ed.ac.uk/teaching/courses/inf1/fp/)
 - [Parallel and Concurrent Haskel](https://www.youtube.com/playlist?list=PLbgaMIhjbmEm_51-HWv9BQUXcmHYtl4sw)
+- [Haskell for Imperative Programmers](https://www.youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
 
 #### Books
 
