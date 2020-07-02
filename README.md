@@ -103,7 +103,6 @@ Estudos de programação funcional maneiros.
 
 - [Don't fear the monad - Brian Beckman](https://www.youtube.com/watch?v=ZhuHCtR3xq8)
 - [Brian Beckman: The Zen of Stateless State - The State Monad](https://www.youtube.com/watch?v=XxzzJiXHOJs)
-- [A Totally Non-Terrifying, Practical Introduction to Type-Level Programming](https://www.youtube.com/watch?v=6FRJfEhlqyg)
 
 #### Blog posts / Papers
 
@@ -173,6 +172,9 @@ Estudos de programação funcional maneiros.
 - [Functional Programming in Haskell](https://github.com/caiorss/Functional-Programming/blob/master/haskell/README.org)
 - [Category Theory](https://en.wikiLivros.org/wiki/Haskell/Category_theory)
 - [Adventure with Types in Haskell - Simon Peyton Jones (Lecture 1)](https://youtu.be/6COvD8oynmI?list=RD6COvD8oynmI)
+
+#### Videos
+- [A Totally Non-Terrifying, Practical Introduction to Type-Level Programming](https://www.youtube.com/watch?v=6FRJfEhlqyg)
 
 #### Courses
 
@@ -287,7 +289,6 @@ Aquele curso do cousera
 - [Discover Elixir Phoenix](https://www.ludu.co/course/discover-elixir-phoenix/)
 - [Elixir FP](https://github.com/kblake/functional-programming)
 - [Koans Exercices](http://elixirkoans.io/)
-
 - [Joy Of Elixir](https://joyofelixir.com/toc.html)
 - [CheatSheet](https://media.pragprog.com/titles/elixir/ElixirCheat.pdf)
 - [Elixir Style Guide](https://github.com/christopheradams/elixir_style_guide)
@@ -330,7 +331,6 @@ Aquele curso do cousera
 
 ## Scheme
 - [Functional Programming by Example - Scheme](https://github.com/caiorss/Functional-Programming/blob/master/scheme/README.org)
-
 - [SICP](https://mitpress.mit.edu/sites/default/files/6515.pdf)
     - Livro com teoria e exercicios em Scheme que era usado para ensinar introdução a computação do MIT.
 - [SICP Distilled](http://www.sicpdistilled.com/)
