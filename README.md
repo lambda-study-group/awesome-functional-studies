@@ -2,7 +2,7 @@
 
 # Awesome Funcional Programming Studies
 
-Estudos de programaço funcional maneiros.
+Estudos de programação funcional maneiros.
 
 [Contributing.md](/contributing.md)
 
