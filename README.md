@@ -48,11 +48,17 @@ Estudos de programação funcional maneiros.
     - Livro com teoria e exercicios em Scheme que era usado para ensinar introdução a computação do MIT.
 - [MIT 6.001 Structure and Interpretation, 1986](https://www.youtube.com/playlist?list=PLE18841CABEA24090)
     - Playlist com as aulas da matéria Introdução à Computação, do MIT, baseada no SICP.
+- 
 
 #### Papers
 
 - [Why Functional Programming Matters](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
 - [Functional Programming should be your #1 priority for 2015](https://medium.com/@jugoncalves/functional-programming-should-be-your-1-priority-for-2015-47dd4641d6b9)
+
+#### Books
+- [Programação Funcional Para Desenvolvedores Java](https://www.amazon.com.br/Programa%C3%A7%C3%A3o-Funcional-Para-Desenvolvedores-Java/dp/857522316X)
+    - Ótimo livro pra quem tá acostumado com POO e quer começar a entender o paradigma funcional. Não precisa saber Java.
+- [Purely Functional Data Structures](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
 
 ## Lambda Calculus-Combinators
 
@@ -90,6 +96,7 @@ Estudos de programação funcional maneiros.
 - [The Algebra of Algebraic Data Types](http://chris-taylor.github.io/blog/2013/02/10/the-algebra-of-algebraic-data-types/)
 - [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 - [Types and Programming Languages](https://www.cis.upenn.edu/~bcpierce/tapl/)
+- [Fundamentos da Programação Lógica e Funcional](https://www.amazon.com.br/Fundamentos-Programa%C3%A7%C3%A3o-Funcional-Princ%C3%ADpio-Resolu%C3%A7%C3%A3o/dp/8523011412)
 
 #### Courses
 - [Video-series - Category theory for programmers by Bartosz Milewski](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_) *****
@@ -184,6 +191,7 @@ Estudos de programação funcional maneiros.
 - [FUNCTIONAL PROGRAMMING - University of Edinburgh](https://www.inf.ed.ac.uk/teaching/courses/inf1/fp/)
 - [Parallel and Concurrent Haskel](https://www.youtube.com/playlist?list=PLbgaMIhjbmEm_51-HWv9BQUXcmHYtl4sw)
 - [Haskell for Imperative Programmers](https://www.youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
+- [Grupo de Estudos de Haskell (UFABC)](http://pesquisa.ufabc.edu.br/haskell/basico.html)
 
 #### Books
 
@@ -210,10 +218,15 @@ Estudos de programação funcional maneiros.
     - Serie de cursos do coursera sobre Scala e programação funcional com o criado da linguagem.
 - [Scala With Cats](https://www.youtube.com/playlist?list=PLk2QkBPrDTjjf0oeODg-3wj-npZw_nA8P)
     - Introdução à biblioteca Cats
+- [Introduction to Programming with Dependent Types](https://stepik.org/course/49181/promo)
+    - Curso mais avançado sobre programação com tipos dependentes.
 
 #### Books
 - [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)
 - [Scala With Cats](https://underscore.io/books/scala-with-cats/)
+
+#### Comunidade
+- [Scaladores](http://scaladores.herokuapp.com/)
 
 ## SML
 
@@ -294,6 +307,7 @@ Aquele curso do cousera
 - [Elixir Style Guide](https://github.com/christopheradams/elixir_style_guide)
 - [Elixir and Erlang packages and resources](https://elixir.libhunt.com/)
 - [Learn x in y](https://learnxinyminutes.com/docs/elixir/)
+- [Elixir 4noobs](https://github.com/aleDsz/elixir4noobs)
 
 ## Ruby
 - [Mockingbirds and Simple Recursive Combinators in Ruby](https://github.com/raganwald-deprecated/homoiconic/blob/master/2011/11/mockingbirds.md)
@@ -351,10 +365,13 @@ Aquele curso do cousera
 1. Intermediário Básico: [The Joy of Clojure](https://www.manning.com/books/the-joy-of-clojure-second-edition)
 1. Intermediário Avançado\*: [Clojure Applied: From Practice to Practitioner](https://pragprog.com/book/vmclojeco/clojure-applied)
 1. Avançado: [Mastering Clojure Macros](https://pragprog.com/book/cjclojure/mastering-clojure-macros)
+- [The Ultimate Guide to Clojure Concurrency](https://www.amazon.com.br/Ultimate-Guide-Clojure-Concurrency-comprehensive-ebook/dp/B0751GD147)
+    - Livro do Eric Normand, responsável pelo site [LispCast](https://lispcast.com/)
 
 #### Comunidade
 - [clj-br](https://github.com/clj-br)
 - [clojurians](http://clojurians.net/)
+- [Clojure Brasil (Telegram)](https://web.telegram.org/#/im?p=@clojurebrasil)
 
 ##### ClojureBridge SP
 
