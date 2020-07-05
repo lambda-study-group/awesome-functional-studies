@@ -48,7 +48,6 @@ Estudos de programação funcional maneiros.
     - Livro com teoria e exercicios em Scheme que era usado para ensinar introdução a computação do MIT.
 - [MIT 6.001 Structure and Interpretation, 1986](https://www.youtube.com/playlist?list=PLE18841CABEA24090)
     - Playlist com as aulas da matéria Introdução à Computação, do MIT, baseada no SICP.
-- 
 
 #### Papers
 
@@ -59,6 +58,10 @@ Estudos de programação funcional maneiros.
 - [Programação Funcional Para Desenvolvedores Java](https://www.amazon.com.br/Programa%C3%A7%C3%A3o-Funcional-Para-Desenvolvedores-Java/dp/857522316X)
     - Ótimo livro pra quem tá acostumado com POO e quer começar a entender o paradigma funcional. Não precisa saber Java.
 - [Purely Functional Data Structures](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
+
+#### Videos
+- [Coding Tech - Functional Programming](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ4gTpuAhnPEQBOz7Xz7wn_m)
+    - Playlist com diferentes vídeos sobre programação funcional, incluindo Type Systems, Reactive Programming, Introduções com JS, etc
 
 ## Lambda Calculus-Combinators
 
