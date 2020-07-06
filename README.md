@@ -2,7 +2,7 @@
 
 # Awesome Funcional Programming Studies
 
-Estudos de programaço funcional maneiros.
+Estudos de programação funcional maneiros.
 
 [Contributing.md](/contributing.md)
 
@@ -46,11 +46,22 @@ Estudos de programaço funcional maneiros.
 - [fp-course](https://github.com/data61/fp-course)
 - [SICP](https://mitpress.mit.edu/sites/default/files/6515.pdf)
     - Livro com teoria e exercicios em Scheme que era usado para ensinar introdução a computação do MIT.
+- [MIT 6.001 Structure and Interpretation, 1986](https://www.youtube.com/playlist?list=PLE18841CABEA24090)
+    - Playlist com as aulas da matéria Introdução à Computação, do MIT, baseada no SICP.
 
 #### Papers
 
 - [Why Functional Programming Matters](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
 - [Functional Programming should be your #1 priority for 2015](https://medium.com/@jugoncalves/functional-programming-should-be-your-1-priority-for-2015-47dd4641d6b9)
+
+#### Books
+- [Programação Funcional Para Desenvolvedores Java](https://www.amazon.com.br/Programa%C3%A7%C3%A3o-Funcional-Para-Desenvolvedores-Java/dp/857522316X)
+    - Ótimo livro pra quem tá acostumado com POO e quer começar a entender o paradigma funcional. Não precisa saber Java.
+- [Purely Functional Data Structures](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
+
+#### Videos
+- [Coding Tech - Functional Programming](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ4gTpuAhnPEQBOz7Xz7wn_m)
+    - Playlist com diferentes vídeos sobre programação funcional, incluindo Type Systems, Reactive Programming, Introduções com JS, etc
 
 ## Lambda Calculus-Combinators
 
@@ -70,6 +81,7 @@ Estudos de programaço funcional maneiros.
 - [Lambda-Calculus and Combinators: An Introduction](https://www.amazon.com/Lambda-Calculus-Combinators-Introduction-Roger-Hindley/dp/0521898854)
 - [To Mock a Mocking Bird](https://www.amazon.com/Mock-Mockingbird-Other-Logic-Puzzles/dp/0192801422)
 - [To Mock a Mockingbird and Other Logic Puzzles](https://www.amazon.com/exec/obidos/tg/detail/-/0394534913/104-1615637-3868724)
+- [An Introduction to Functional Programming Through Lambda Calculus](https://www.amazon.com.br/gp/product/0486478831/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)
 
 #### Games
 
@@ -86,10 +98,16 @@ Estudos de programaço funcional maneiros.
 - [Type Theory & Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/ttfp.pdf)
 - [The Algebra of Algebraic Data Types](http://chris-taylor.github.io/blog/2013/02/10/the-algebra-of-algebraic-data-types/)
 - [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
+- [Types and Programming Languages](https://www.cis.upenn.edu/~bcpierce/tapl/)
+- [Fundamentos da Programação Lógica e Funcional](https://www.amazon.com.br/Fundamentos-Programa%C3%A7%C3%A3o-Funcional-Princ%C3%ADpio-Resolu%C3%A7%C3%A3o/dp/8523011412)
 
 #### Courses
 - [Video-series - Category theory for programmers by Bartosz Milewski](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_) *****
     - Video series das aulas do Bartosz Milewski de teoria das cateorias.
+- [Type Theory Foundations](https://www.youtube.com/playlist?list=PLGCr8P_YncjXRzdGq2SjKv5F2J8HUFeqN)
+    - Série de vídeos das aulas do Robert Harper (Carnegie Mellon U) sobre type theory.
+- [Proof Theory Foundations](https://www.youtube.com/playlist?list=PL_zaeQ6Mf5FAYNk3GsK9tdj_Ce-eIfH_b)
+    - Sério de vídeos das aulas do Frank Pfenning (Carnegie Mellon U) sobre proof theory.
 
 #### Videos
 
@@ -165,12 +183,18 @@ Estudos de programaço funcional maneiros.
 - [Category Theory](https://en.wikiLivros.org/wiki/Haskell/Category_theory)
 - [Adventure with Types in Haskell - Simon Peyton Jones (Lecture 1)](https://youtu.be/6COvD8oynmI?list=RD6COvD8oynmI)
 
+#### Videos
+- [A Totally Non-Terrifying, Practical Introduction to Type-Level Programming](https://www.youtube.com/watch?v=6FRJfEhlqyg)
+
 #### Courses
 
 - [School Of Haskell](https://www.schoolofhaskell.com/)
 - [Haskell Course - NPTEL](http://nptel.ac.in/courses/106106137/)
 - [Haskell Fast Hard](https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/haskell-fast-hard)
 - [FUNCTIONAL PROGRAMMING - University of Edinburgh](https://www.inf.ed.ac.uk/teaching/courses/inf1/fp/)
+- [Parallel and Concurrent Haskel](https://www.youtube.com/playlist?list=PLbgaMIhjbmEm_51-HWv9BQUXcmHYtl4sw)
+- [Haskell for Imperative Programmers](https://www.youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
+- [Grupo de Estudos de Haskell (UFABC)](http://pesquisa.ufabc.edu.br/haskell/basico.html)
 
 #### Books
 
@@ -181,15 +205,31 @@ Estudos de programaço funcional maneiros.
 - [HaskellBook](http://haskellbook.com/)
 - [Write you a Haskell](http://dev.stephendiehl.com/fun/)
     - Building a modern functional compiler from first principles.
+- [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/)
 
 ## Scala
 
 #### Videos
 - [Scala Monads: Declutter Your Code With Monadic Design](https://youtu.be/Mw_Jnn_Y5iA)
+- [Recursion Schemes Categorically](https://www.youtube.com/watch?v=PlFR6xBGphY)
+    - Apresentação da Oli junto com o Bartosz Milewski, no ScalaUA 2020
+- [Scaladores](https://www.youtube.com/c/scaladores/videos)
+    - Canal no youtube do grupo brasileiro sobre Scala
 
 #### Courses
 - [Coursera - Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)
     - Serie de cursos do coursera sobre Scala e programação funcional com o criado da linguagem.
+- [Scala With Cats](https://www.youtube.com/playlist?list=PLk2QkBPrDTjjf0oeODg-3wj-npZw_nA8P)
+    - Introdução à biblioteca Cats
+- [Introduction to Programming with Dependent Types](https://stepik.org/course/49181/promo)
+    - Curso mais avançado sobre programação com tipos dependentes.
+
+#### Books
+- [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)
+- [Scala With Cats](https://underscore.io/books/scala-with-cats/)
+
+#### Comunidade
+- [Scaladores](http://scaladores.herokuapp.com/)
 
 ## SML
 
@@ -265,12 +305,12 @@ Aquele curso do cousera
 - [Discover Elixir Phoenix](https://www.ludu.co/course/discover-elixir-phoenix/)
 - [Elixir FP](https://github.com/kblake/functional-programming)
 - [Koans Exercices](http://elixirkoans.io/)
-
 - [Joy Of Elixir](https://joyofelixir.com/toc.html)
 - [CheatSheet](https://media.pragprog.com/titles/elixir/ElixirCheat.pdf)
 - [Elixir Style Guide](https://github.com/christopheradams/elixir_style_guide)
 - [Elixir and Erlang packages and resources](https://elixir.libhunt.com/)
 - [Learn x in y](https://learnxinyminutes.com/docs/elixir/)
+- [Elixir 4noobs](https://github.com/aleDsz/elixir4noobs)
 
 ## Ruby
 - [Mockingbirds and Simple Recursive Combinators in Ruby](https://github.com/raganwald-deprecated/homoiconic/blob/master/2011/11/mockingbirds.md)
@@ -308,7 +348,6 @@ Aquele curso do cousera
 
 ## Scheme
 - [Functional Programming by Example - Scheme](https://github.com/caiorss/Functional-Programming/blob/master/scheme/README.org)
-
 - [SICP](https://mitpress.mit.edu/sites/default/files/6515.pdf)
     - Livro com teoria e exercicios em Scheme que era usado para ensinar introdução a computação do MIT.
 - [SICP Distilled](http://www.sicpdistilled.com/)
@@ -329,10 +368,13 @@ Aquele curso do cousera
 1. Intermediário Básico: [The Joy of Clojure](https://www.manning.com/books/the-joy-of-clojure-second-edition)
 1. Intermediário Avançado\*: [Clojure Applied: From Practice to Practitioner](https://pragprog.com/book/vmclojeco/clojure-applied)
 1. Avançado: [Mastering Clojure Macros](https://pragprog.com/book/cjclojure/mastering-clojure-macros)
+- [The Ultimate Guide to Clojure Concurrency](https://www.amazon.com.br/Ultimate-Guide-Clojure-Concurrency-comprehensive-ebook/dp/B0751GD147)
+    - Livro do Eric Normand, responsável pelo site [LispCast](https://lispcast.com/)
 
 #### Comunidade
 - [clj-br](https://github.com/clj-br)
 - [clojurians](http://clojurians.net/)
+- [Clojure Brasil (Telegram)](https://web.telegram.org/#/im?p=@clojurebrasil)
 
 ##### ClojureBridge SP
 
