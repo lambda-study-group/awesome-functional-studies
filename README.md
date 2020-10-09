@@ -440,3 +440,13 @@ Aquele curso do cousera
 ### Papers
 - [Programming and Reasoning w/ Side-Effects in Idris](https://eb.host.cs.st-andrews.ac.uk/drafts/eff-tutorial.pdf)
 - [Programming and Reasoning w/ Algebraic Effects and Dependent Types](https://eb.host.cs.st-andrews.ac.uk/drafts/effects.pdf)
+
+
+## ReasonML
+
+- [Discord group - ReasonBR](https://discord.gg/mb7VXG)
+
+### Talks
+- [ReasonML e ReScript: O ECMAScript de 2077! (Meetanços)](https://youtu.be/Hoed0aZGbJY)
+- [Lambda/IO - Workshop A Trindade ReasonML, React e GraphQL na Hash](https://youtu.be/I_wZ_nsWld8)
+- [ECMAScript 2077 (ReasonML) - Gabriel Rubens](https://www.youtube.com/watch?v=q1gPfQHpVjo)
