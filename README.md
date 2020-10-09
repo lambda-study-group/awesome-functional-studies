@@ -23,6 +23,7 @@ Estudos de programação funcional maneiros.
 - [Common Lisp](#common-lisp)
 - [Clojure](#clojure)
 - [Idris](#idris)
+- [ReasonML](#reasonml)
 
 ## Paradigm
 
