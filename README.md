@@ -23,6 +23,7 @@ Estudos de programação funcional maneiros.
 - [Common Lisp](#common-lisp)
 - [Clojure](#clojure)
 - [Idris](#idris)
+- [ReasonML](#reasonml)
 
 ## Paradigm
 
@@ -48,6 +49,10 @@ Estudos de programação funcional maneiros.
     - Livro com teoria e exercicios em Scheme que era usado para ensinar introdução a computação do MIT.
 - [MIT 6.001 Structure and Interpretation, 1986](https://www.youtube.com/playlist?list=PLE18841CABEA24090)
     - Playlist com as aulas da matéria Introdução à Computação, do MIT, baseada no SICP.
+- [How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data) *****
+    - Curso em Inglês baseado no livro How to Design Programs citado na seção "Paradigm"
+- [How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data)
+    - Continuação do curso acima.
 
 #### Papers
 
@@ -436,3 +441,13 @@ Aquele curso do cousera
 ### Papers
 - [Programming and Reasoning w/ Side-Effects in Idris](https://eb.host.cs.st-andrews.ac.uk/drafts/eff-tutorial.pdf)
 - [Programming and Reasoning w/ Algebraic Effects and Dependent Types](https://eb.host.cs.st-andrews.ac.uk/drafts/effects.pdf)
+
+
+## ReasonML
+
+- [Discord group - ReasonBR](https://discord.gg/mb7VXG)
+
+### Talks
+- [ReasonML e ReScript: O ECMAScript de 2077! (Meetanços)](https://youtu.be/Hoed0aZGbJY)
+- [Lambda/IO - Workshop A Trindade ReasonML, React e GraphQL na Hash](https://youtu.be/I_wZ_nsWld8)
+- [ECMAScript 2077 (ReasonML) - Gabriel Rubens](https://www.youtube.com/watch?v=q1gPfQHpVjo)
