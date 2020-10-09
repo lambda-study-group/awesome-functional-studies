@@ -48,6 +48,10 @@ Estudos de programação funcional maneiros.
     - Livro com teoria e exercicios em Scheme que era usado para ensinar introdução a computação do MIT.
 - [MIT 6.001 Structure and Interpretation, 1986](https://www.youtube.com/playlist?list=PLE18841CABEA24090)
     - Playlist com as aulas da matéria Introdução à Computação, do MIT, baseada no SICP.
+- [How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data) *****
+    - Curso em Inglês baseado no livro How to Design Programs citado na seção "Paradigm"
+- [How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data)
+    - Continuação do curso acima.
 
 #### Papers
 
