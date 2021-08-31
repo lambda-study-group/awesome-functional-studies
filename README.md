@@ -200,6 +200,7 @@ Estudos de programação funcional maneiros.
 - [Parallel and Concurrent Haskel](https://www.youtube.com/playlist?list=PLbgaMIhjbmEm_51-HWv9BQUXcmHYtl4sw)
 - [Haskell for Imperative Programmers](https://www.youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
 - [Grupo de Estudos de Haskell (UFABC)](http://pesquisa.ufabc.edu.br/haskell/basico.html)
+- [Haskell Course - Glasgow University](https://www.futurelearn.com/courses/functional-programming-haskell)
 
 #### Books
 
