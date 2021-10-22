@@ -366,6 +366,7 @@ Aquele curso do cousera
 - [Practical Common Lisp](http://www.gigamonkeys.com/book/) *****
 - [On Lisp](http://www.paulgraham.com/onlisp.html) *****
 - [Lisp In Small Pieces](https://www.amazon.com/Lisp-Small-Pieces-Christian-Queinnec/dp/0521545668) ****
+- [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp] (https://github.com/norvig/paip-lisp)  ****
 
 ## Clojure
 #### Books
