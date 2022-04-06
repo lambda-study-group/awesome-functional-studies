@@ -64,6 +64,9 @@ Estudos de programação funcional maneiros.
     - Ótimo livro pra quem tá acostumado com POO e quer começar a entender o paradigma funcional. Não precisa saber Java.
 - [Purely Functional Data Structures](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
 
+- [Algoritmos Funcionais](https://altabooks.com.br/produto/algoritmos-funcionais/)
+    - Um bom livro pra quem está querendo ver lógica de programação funcional envolvendo teoria dos conjuntos e exemplos de código utilizando Haskell e Hope. Não precisa saber essas linguagens o autor mostra uma abordagem bem didática e simples pra explicar.
+
 #### Videos
 - [Coding Tech - Functional Programming](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ4gTpuAhnPEQBOz7Xz7wn_m)
     - Playlist com diferentes vídeos sobre programação funcional, incluindo Type Systems, Reactive Programming, Introduções com JS, etc
