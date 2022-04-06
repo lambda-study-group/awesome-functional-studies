@@ -65,7 +65,7 @@ Estudos de programação funcional maneiros.
 - [Purely Functional Data Structures](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
 
 - [Algoritmos Funcionais](https://altabooks.com.br/produto/algoritmos-funcionais/)
-    - Um bom livro pra quem está querendo ver lógica de programação funcional envolvendo teoria dos conjuntos e exemplos de código utilizando Haskell e Hope. Não precisa saber essas linguagens o autor mostra uma abordagem bem didática e simples pra explicar.
+    - Ótimo livro pra quem está querendo ver lógica de programação funcional, utilizando Haskell e Hope. Não precisa saber essas linguagens.
 
 #### Videos
 - [Coding Tech - Functional Programming](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ4gTpuAhnPEQBOz7Xz7wn_m)
