@@ -64,7 +64,7 @@ Estudos de programação funcional maneiros.
     - Ótimo livro pra quem tá acostumado com POO e quer começar a entender o paradigma funcional. Não precisa saber Java.
 - [Purely Functional Data Structures](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
 
-- [Algoritmos Funcionais](https://altabooks.com.br/produto/algoritmos-funcionais/)
+- [Algoritmos Funcionais](https://altabooks.com.br/produto/algoritmos-funcionais/) *****
     - Ótimo livro pra quem está querendo ver lógica de programação funcional, utilizando Haskell e Hope. Não precisa saber essas linguagens.
 
 #### Videos
