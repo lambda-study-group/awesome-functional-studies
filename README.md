@@ -184,6 +184,7 @@ Estudos de programação funcional maneiros.
 
 #### Videos
 - [Functional Programming in Javascript - funfunfunction](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+- [JavaScript Course for Beginners 2024 - FreeCodeCamp](https://www.youtube.com/watch?v=Zi-Q0t4gMC8)
 
 ## Haskell
 
