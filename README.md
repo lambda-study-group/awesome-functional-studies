@@ -53,6 +53,7 @@ Estudos de programação funcional maneiros.
     - Curso em Inglês baseado no livro How to Design Programs citado na seção "Paradigm"
 - [How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data)
     - Continuação do curso acima.
+- [TutorialSearch](https://tutorialsearch.io/browse/programming-languages/functional-programming) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 #### Papers
 
